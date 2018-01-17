@@ -1,0 +1,28 @@
+
+Meta: construir un pequeño sistema de e-commerce para implementos de impresión.
+EN 1:30 HORAS.
+	FORMULARIO INGRESO PRODUCTO
+		nombre, categoría, descripción, stock, IMAGEN, disponible, agregadoEn.
+	
+	TABLA LISTADO COMPLETO 
+		imagen miniatura.
+
+	PAGINA INDEX DONDE SE MUESTRAN LOS ÚLTIMOS OBJETOS AGREGADOS.
+		acá deben mostrarse los últimos 6 objetos agregados.
+
+	PANTALLA ADMIN:
+		acá tenemos la tabla con todos los objetos, pero con TEXT INPUT 
+		y un botón modificar, cambiar disponible, eliminar.
+	
+
+--------------
+3ERA HORA:
+	Conectar los servicios de MySQLi con el HTML.
+
+	-Agregar 10 produtos a la base de datos
+	-Hacer funcionar el formulario de agregar.
+		Esto implica hacer funcionar el "GUARDAR IMAGEN"
+	-Hacer funcionar el módulo de Buscar
+	-Habilitar los 
+
+	
